@@ -1,4 +1,4 @@
 # github_test
-for testing
+for testing git
 <br>
 this is my personal account
